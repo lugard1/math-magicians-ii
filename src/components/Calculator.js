@@ -4,7 +4,6 @@ class Calculator extends React.PureComponent {
   render() {
     return (
       <div className="calculator-keypad">
-        <div className="calculator-display">0</div>
         <div className="input-keys">
           <button type="button">AC</button>
           <button type="button">+/-</button>
