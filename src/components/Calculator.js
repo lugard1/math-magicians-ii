@@ -4,13 +4,19 @@ import calculate from '../logic/calculate';
 class Calculator extends React.PureComponent {
   constructor(props) {
     super(props);
-    this.state = { total: 0, next: null, operation: null };
+    this.state = {
+      total: null,
+      next: null,
+      operation: null,
+    };
   }
 
   clickReceived = (event) => {
-    const buttonName = event.target.innerText;
-    const answer = calculate(this.state, buttonName);
-    this.setState(answer);
+    const answer = calculate(this.state, event.target.innerText);
+    this.setState((prevState) => ({
+      ...prevState,
+      ...answer,
+    }));
   };
 
   render() {
