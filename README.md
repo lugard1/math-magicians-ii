@@ -111,9 +111,10 @@ Features -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+<!-- > Add a link to your deployed project. -->
 
-- [Live Demo Link]()
+<!-- - [Live Demo Link]() -->
+- N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,9 +122,14 @@ Features -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+<!-- > Describe how a new developer could make use of your project. -->
 
 To get a local copy up and running, follow these steps.
+- Goto the main GitHub page
+- click on <> Code
+- copy repo URL
+- Open the terminal of your machine or use either git bash or Vs Code etc
+- git clone repo URL.
 
 ### Prerequisites
 
@@ -159,6 +165,8 @@ Example commands:
 
 Install this project with:
 - Git Bash
+- Vs Code
+- git clone url
 <!--
 Example command:
 
@@ -223,8 +231,6 @@ Example:
 FUTURE FEATURES
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> 
 
 -  **I would refactor the calculator app.**
 
