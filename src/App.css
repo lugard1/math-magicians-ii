@@ -48,6 +48,7 @@ button:active {
 }
 
 .zero {
+
   grid-column: 1/span 2;
 }
 
