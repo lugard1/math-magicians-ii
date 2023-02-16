@@ -9,7 +9,7 @@ function Calculator() {
   });
 
   const clickReceived = (event) => {
-    const answer = calculate(event.target.innerText);
+    const answer = calculate(event.target.textContent);
     setComputation(answer);
   };
 
