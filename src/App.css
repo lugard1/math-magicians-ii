@@ -21,12 +21,13 @@ body {
   align-items: center;
   justify-content: flex-end;
   height: 50px;
+  font-size: 1.3rem;
   background-color: grey;
   padding: 8px;
   color: white;
 }
 
-.input-keys {
+.operations {
   display: grid;
   grid-template-columns: auto auto auto auto;
   grid-template-rows: repeat(5, 60px);
@@ -46,7 +47,7 @@ button:active {
   background-color: #80808088;
 }
 
-.zerodigit {
+.zero {
   grid-column: 1/span 2;
 }
 

@@ -60,11 +60,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [math-magiciians] <a name="about-project"></a>
+# 📖 [math-magicians] <a name="about-project"></a>
 
 > 
 
-**[math-magicians: component]** This project is to create a calculator UI using React components.
+**[math-magicians: events]** This project, is to add the logic needed to make the Calculator component developed in the previous project actually work..
 
 ## 🛠 Built With <a name="built-with">
 - HTML
@@ -102,7 +102,8 @@ After you're finished please remove all the comments and instructions!
 
 Features -->
 ### Key Features <a name="key-features"></a>
-- Calculator UI
+
+- functional calculator app
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,9 +122,14 @@ Features -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+<!-- > Describe how a new developer could make use of your project. -->
 
 To get a local copy up and running, follow these steps.
+- Goto the main GitHub page
+- click on <> Code
+- copy repo URL
+- Open the terminal of your machine or use either git bash or Vs Code etc
+- git clone repo URL.
 
 ### Prerequisites
 
@@ -143,11 +149,9 @@ Example command:
 ### Setup
 
 create a new empty repo
-run in your terminal :
-- npx create-react-app 'app-name'
-- cd app-name
-- npm start
-- run the commands as seen in the new empty Github repo to link to the upstream.
+run in your terminal : npx create-react-app 'app-name'
+cd app-name
+run the commands as seen in the new empty Github repo to link to the upstream.
 <!--
 Example commands:
 
@@ -161,6 +165,8 @@ Example commands:
 
 Install this project with:
 - Git Bash
+- Vs Code
+- git clone url
 <!--
 Example command:
 
@@ -197,7 +203,7 @@ Example command:
 ### Deployment
 
 You can deploy this project using:
-- GitHub Pages.
+- GitHub Pages
 <!--
 Example:
 
@@ -214,7 +220,7 @@ Example:
 
 <!-- > Mention all of the collaborators of this project. -->
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@lugard1](https://github.com/lugard1)
 - Twitter: [@Dsn3kings](https://twitter.com/Dsn3kings)
@@ -226,9 +232,7 @@ FUTURE FEATURES
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> 
-
--  **I would create a calculator UI.**
+-  **I would refactor the calculator app.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -281,7 +285,7 @@ I would like to thank everyone that made this work a success.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/lugard1/math-magicians-ii/blob/component/MIT.md) licensed.
+This project is [MIT](https://github.com/lugard1/math-magicians-ii/blob/events/MIT.md) licensed.
 
 <!-- _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._ -->
 
