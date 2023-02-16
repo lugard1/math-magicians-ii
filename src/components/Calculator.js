@@ -1,19 +1,15 @@
 import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 
-function Calculator() {
-  const [computation, setComputation] = useState({
-    total: null,
-    operation: null,
-    next: null,
-  });
-
-  const clickReceived = (event) => {
-    const answer = calculate(event.target.textContent);
-    setComputation(answer);
+const Calculator = () => {
+  const [calculation, setCalculation] = useState(0);
+  const clickReceived = (e) => {
+    const buttonName = e.currentTarget.textContent;
+    const newState = calculate(calculation, buttonName);
+    setCalculation(newState);
   };
 
-  const { total, operation, next } = computation;
+  const { total, operation, next } = calculation;
   return (
     <div className="calculator">
       <div className="calculator-display">
@@ -82,6 +78,6 @@ function Calculator() {
       </div>
     </div>
   );
-}
+};
 
 export default Calculator;
