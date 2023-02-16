@@ -2,10 +2,10 @@ import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 
 function Calculator() {
-  const [Computation, setComputation] = useState({
+  const [computation, setComputation] = useState({
     total: null,
-    next: null,
     operation: null,
+    next: null,
   });
 
   const clickReceived = (event) => {
@@ -13,7 +13,7 @@ function Calculator() {
     setComputation(answer);
   };
 
-  const { total, operation, next } = Computation;
+  const { total, operation, next } = computation;
   return (
     <div className="calculator">
       <div className="calculator-display">
