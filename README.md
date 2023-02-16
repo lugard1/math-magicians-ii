@@ -60,11 +60,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [math-magicians] <a name="about-project"></a>
+# 📖 [math-magiciians] <a name="about-project"></a>
 
 > 
 
-**[math-magicians: events]** This project, is to add the logic needed to make the Calculator component developed in the previous project actually work..
+**[math-magicians: refactor with hooks]** This is a project to refactor already developed functional calculator app using React hooks.
 
 ## 🛠 Built With <a name="built-with">
 - HTML
@@ -103,7 +103,10 @@ After you're finished please remove all the comments and instructions!
 Features -->
 ### Key Features <a name="key-features"></a>
 
-- functional calculator app
+>
+
+<!-- - **[animated logo of the React app]** -->
+- A functional calculator
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,11 +128,11 @@ Features -->
 <!-- > Describe how a new developer could make use of your project. -->
 
 To get a local copy up and running, follow these steps.
-- Goto the main GitHub page
-- click on <> Code
-- copy repo URL
-- Open the terminal of your machine or use either git bash or Vs Code etc
-- git clone repo URL.
+- Goto the main page of the GitHub
+- Click on <> Code
+- Copy the URL of the repo
+- Open the terminal of your local machine Git bash, VS Code Editor
+- git clone url of the repo
 
 ### Prerequisites
 
@@ -165,8 +168,7 @@ Example commands:
 
 Install this project with:
 - Git Bash
-- Vs Code
-- git clone url
+- VS Code
 <!--
 Example command:
 
@@ -204,6 +206,7 @@ Example command:
 
 You can deploy this project using:
 - GitHub Pages
+- Render
 <!--
 Example:
 
@@ -232,7 +235,9 @@ FUTURE FEATURES
 
 ## 🔭 Future Features <a name="future-features"></a>
 
--  **I would refactor the calculator app.**
+> 
+
+-  **I would implement the full website with other pages using SPA**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -285,7 +290,7 @@ I would like to thank everyone that made this work a success.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/lugard1/math-magicians-ii/blob/events/MIT.md) licensed.
+This project is [MIT](https://github.com/lugard1/math-magicians-ii/blob/refactor-with-hooks/MIT.md) licensed.
 
 <!-- _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._ -->
 
