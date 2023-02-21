@@ -75,9 +75,9 @@ After you're finished please remove all the comments and instructions!
 - React Router DOM
 </a>
 
-### Tech Stack <a name="tech-stack"></a>
+ <!-- ### Tech Stack <a name="tech-stack"></a>
 
-<!-- > Describe the tech stack and include only the relevant sections that apply to your project. -->
+ > Describe the tech stack and include only the relevant sections that apply to your project. 
 
 <details>
   <summary>Client</summary>
@@ -98,9 +98,9 @@ After you're finished please remove all the comments and instructions!
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
-</details>
+</details>  -->
 
-Features -->
+Features 
 ### Key Features <a name="key-features"></a>
 
 >
@@ -113,9 +113,10 @@ Features -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+<!-- > Add a link to your deployed project. -->
+- N/A
 
-- [Live Demo Link](https://math-magiciians.onrender.com/)
+<!-- - [Live Demo Link](https://math-magiciians.onrender.com/) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -282,7 +283,7 @@ I would like to thank everyone that made this work a success.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/lugard1/math-magiciians/blob/full-website/MIT.md) licensed.
+This project is [MIT](https://github.com/lugard1/math-magicians-ii/blob/full-website/MIT.md) licensed.
 
 <!-- _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._ -->
 
