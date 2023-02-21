@@ -2,7 +2,7 @@ import React from 'react';
 // eslint-disable-next-line import/no-extraneous-dependencies
 import { Route, Routes, Link } from 'react-router-dom';
 // eslint-disable-next-line import/no-named-as-default, import/no-named-as-default-member
-import Calculator from './components/calculator';
+import Calculator from './components/Calculator';
 import Home from './components/pages/Home';
 import Quote from './components/pages/Quote';
 import './App.css';
