@@ -1,0 +1,15 @@
+.home_section {
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+  width: 90%;
+  height: 100vh;
+  margin: 5rem auto;
+  padding-top: 8rem;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.paragraph {
+  padding-top: 15px;
+}
