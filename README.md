@@ -60,24 +60,24 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [math-magiciians] <a name="about-project"></a>
+# 📖 [math-magicians] <a name="about-project"></a>
 
 > 
 
-**[math-magicians: refactor with hooks]** This is a project to refactor already developed functional calculator app using React hooks.
+**[math-magicians: full website]** This is an SPA project to develop a web app with three diferent pages: the Home page, Calculator Page, Quote page which are seamlessly accessed using the React Router DOM.
 
 ## 🛠 Built With <a name="built-with">
 - HTML
 - CSS
 - JavaScript
-- JSX
 - Webpack
 - React
+- React Router DOM
 </a>
 
-<!-- ### Tech Stack <a name="tech-stack"></a>
+ <!-- ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+ > Describe the tech stack and include only the relevant sections that apply to your project. 
 
 <details>
   <summary>Client</summary>
@@ -98,15 +98,14 @@ After you're finished please remove all the comments and instructions!
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
-</details> -->
+</details>  -->
 
-Features -->
+Features 
 ### Key Features <a name="key-features"></a>
 
 >
 
-<!-- - **[animated logo of the React app]** -->
-- A functional calculator
+- **A Home page, Calculator page, and Quote page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,24 +114,18 @@ Features -->
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 <!-- > Add a link to your deployed project. -->
-
-<!-- - [Live Demo Link]() -->
 - N/A
+
+<!-- - [Live Demo Link](https://math-magiciians.onrender.com/) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-<!-- > Describe how a new developer could make use of your project. -->
-
-To get a local copy up and running, follow these steps.
-- Goto the main page of the GitHub
-- Click on <> Code
-- Copy the URL of the repo
-- Open the terminal of your local machine Git bash, VS Code Editor
-- git clone url of the repo
+You can clone or fork this project, to do that you need:
+- Git Bash
+- Vs code 
 
 ### Prerequisites
 
@@ -155,6 +148,7 @@ create a new empty repo
 run in your terminal : npx create-react-app 'app-name'
 cd app-name
 run the commands as seen in the new empty Github repo to link to the upstream.
+npm i react-router react-router-dom
 <!--
 Example commands:
 
@@ -168,7 +162,7 @@ Example commands:
 
 Install this project with:
 - Git Bash
-- VS Code
+- Vs code 
 <!--
 Example command:
 
@@ -206,7 +200,6 @@ Example command:
 
 You can deploy this project using:
 - GitHub Pages
-- Render
 <!--
 Example:
 
@@ -237,7 +230,7 @@ FUTURE FEATURES
 
 > 
 
--  **I would implement the full website with other pages using SPA**
+-  **I would work on the style and feel of the web app.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -290,7 +283,7 @@ I would like to thank everyone that made this work a success.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/lugard1/math-magicians-ii/blob/refactor-with-hooks/MIT.md) licensed.
+This project is [MIT](https://github.com/lugard1/math-magicians-ii/blob/full-website/MIT.md) licensed.
 
 <!-- _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._ -->
 
