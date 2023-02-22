@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import calculate from '../logic/calculate';
+import Btn from './buttons';
 
 const Calculator = () => {
   const [calculation, setCalculation] = useState(0);
